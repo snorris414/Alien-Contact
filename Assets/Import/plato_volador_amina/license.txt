@@ -1,0 +1,11 @@
+Model Information:
+* title:	plato_volador_amina
+* source:	https://sketchfab.com/3d-models/plato-volador-amina-f7fdac6a3aed43f1bb8a40ce9c74ad6c
+* author:	Fede_Garcia (https://sketchfab.com/fedegarcia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "plato_volador_amina" (https://sketchfab.com/3d-models/plato-volador-amina-f7fdac6a3aed43f1bb8a40ce9c74ad6c) by Fede_Garcia (https://sketchfab.com/fedegarcia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
